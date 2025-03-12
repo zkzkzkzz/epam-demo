@@ -2,3 +2,6 @@ mac i koplje
 zid stita
 drze se 
 na njihovom izabranom polju
+
+stvaraju stitove
+stit po stit
